@@ -1,6 +1,6 @@
 anomaly.detection
 ===
-# Fold Structure
+# Folder Structure
 
 - anomaly.detection.by.machine.learning
   - 『入門 機械学習による異常検知』
